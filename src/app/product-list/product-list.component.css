@@ -1,0 +1,16 @@
+.card {
+  border: none;
+  box-shadow: 0 0 35px rgba(140, 152, 164, 0.125) !important;
+}
+.btn {
+  color: #fff !important;
+}
+.row {
+  padding: 25px;
+}
+.col-sm-3 {
+  padding: 10px;
+}
+hr {
+  width: 100%;
+}
